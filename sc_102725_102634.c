@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* This is all the main variables values the program uses */
 /* float movie2D = 12.00; */
 /* float movie3D = 15.00; */
 /* float iMax = 18.00; */
